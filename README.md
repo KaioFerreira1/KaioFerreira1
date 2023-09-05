@@ -1,8 +1,9 @@
 ### Olá eu sou Kaio Ferreira😎👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaioferreira08/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009102147922)
-[![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kaioferr07)
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kaioferr07)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-ferreira-3852a8251/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=kaiof2902@gmail.com)
 
 ## Tecnologias
 <div style="display: inline_block">
@@ -23,4 +24,10 @@
 </div><br/>
 
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioFerreira1&show_icons=true&theme=dracula)
+
+## Sobre Eu
+Me chamo Kaio, sou Estudante do Curso de Ciências da Computação, na Faculdade Católica da Paraíba.
+
+Atualmente estou no 4ºPeríodo
+
 
