@@ -26,7 +26,7 @@
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioFerreira1&show_icons=true&theme=dracula)
 
 ## Sobre Eu
-Me chamo Kaio, sou Estudante do Curso de Ciências da Computação, na Faculdade Católica da Paraíba.
+Me chamo Kaio, sou Estudante do Curso de Ciências da Computação na Faculdade Católica da Paraíba.
 
 Atualmente estou no 4ºPeríodo
 
