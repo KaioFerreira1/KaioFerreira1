@@ -28,6 +28,6 @@
 ## Sobre Eu
 Me chamo Kaio, sou Estudante do Curso de Ciências da Computação na Faculdade Católica da Paraíba.
 
-Atualmente estou no 4ºPeríodo
+Atualmente estou no 5ºPeríodo
 
 
