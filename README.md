@@ -29,6 +29,7 @@
 Me chamo Kaio, sou Estudante do Curso de Ciências da Computação na Faculdade Católica da Paraíba.
 
 Melhorando como Dev-Mobile Flutter e Android Studio(Java).
+
 Atualmente estou no 6-Período
 
 
